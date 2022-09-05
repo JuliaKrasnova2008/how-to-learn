@@ -207,7 +207,7 @@
   padding-top: 100px;
   flex-direction: column;
   align-content: center;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 
 .feynman__foto {
@@ -346,7 +346,7 @@
   padding: 0;
   padding-top: 60px;
   padding-bottom: 40px;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 
 .footer__columns {
